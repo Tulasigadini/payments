@@ -31,6 +31,7 @@ api end points
     
     generate this Razorpay-Signature by running /webhook_system\payments> python .\signature.py
 2)get http://localhost:8000/payments/pay_014/events    or http://localhost:8000/payments/{payment_id}/events
+
 project tree
 =============
 
